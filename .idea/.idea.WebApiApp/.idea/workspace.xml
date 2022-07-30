@@ -6,13 +6,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaaebe33-1cb5-43f0-b91a-9490829e3aff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/WebApiApp/wwwroot/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApiApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApiApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApiApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiApp/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -32,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -79,8 +87,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659175582253</updated>
-      <workItem from="1659175595352" duration="1173000" />
+      <workItem from="1659175595352" duration="1858000" />
     </task>
+    <task id="LOCAL-00001" summary="Определение сервера. &#10;Обработка запросов.">
+      <created>1659177107506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659177107506</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Определение сервера. &#10;Обработка запросов." />
+    <option name="LAST_COMMIT_MESSAGE" value="Определение сервера. &#10;Обработка запросов." />
   </component>
 </project>
